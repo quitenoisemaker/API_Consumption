@@ -1,0 +1,2 @@
+<h4>Simple API Task</h4>
+<p>Perform a GET request to retrieve the data from an API URL and save the response in a SQL table with appropriate data types and length. Also, print out the response in a formatted HTML view page with a button to generate the PDF version of the view.</p>
